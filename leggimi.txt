@@ -1,0 +1,25 @@
+COMPILAZIONE ED ESECUZIONE SERVER
+1)Dare i permessi di esecuzione al file compile_server.sh
+  tramite il comando: chmod u+x compile_server.sh
+2)Eseguire il file compile.server.sh tramite comando:
+  ./compile_server.sh
+3)Eseguire il file generato server.out e passargli un numero di porta,
+  per esempio: ./server.out 3000
+
+COMPILAZIONE ED ESECUZIONE CLIENT
+1)Dare i permessi di esecuzione al file compile_client.sh
+  tramite il comando: chmod u+x compile_client.sh
+2)Eseguire il file compile_client.sh tramite comando:
+  ./compile_client.sh
+3)Eseguire il file generato client.out e passargli l'indirizzo ip del server,
+  il numero di porta del server, per esempio:
+  ./client.out 192.168.1.2 3000
+
+REGOLE DEL GIOCO
+Per muoversi nei menu bisogna usare i pulsanti W ed S
+Per muoversi nel gioco bisogna usare i pulsanti W, A, S, D.
+Per raccogliere un oggetto rappresentato con il carattere 'o'
+bisogna posizionarsici sopra e premere J
+Per depositare un oggetto raccolto su una locazione rappresentata
+dal carattere 'H' bisogna posizionarsici sopra e premere 'J'
+Per uscire mentre si è in gioco bisogna premere ESC

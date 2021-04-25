@@ -1,0 +1,1 @@
+gcc main.c game_client.c ../giocatore/giocatore.c ../oggetto/oggetto.c ../mappa/mappa.c ../utility_comunicazione_client/utility_comunicazione_client.c ../utility/utility.c ../console_utility/console_utility.c

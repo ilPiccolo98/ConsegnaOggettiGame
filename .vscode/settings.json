@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "server.h": "c",
+        "messaggio_client.h": "c",
+        "stdio.h": "c",
+        "utility.h": "c",
+        "menu_principale.h": "c",
+        "console_utility.h": "c",
+        "limits": "c"
+    }
+}

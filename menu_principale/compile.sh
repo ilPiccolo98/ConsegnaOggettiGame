@@ -1,0 +1,1 @@
+gcc main.c menu_principale.c ../messaggio/messaggio.c ../console_utility/console_utility.c ../utility/utility.c ../menu_comandi/menu_comandi.c ../utility_comunicazione_client/utility_comunicazione_client.c ../giocatore/giocatore.c ../oggetto/oggetto.c ../game_client/game_client.c ../mappa/mappa.c
